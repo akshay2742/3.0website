@@ -66,7 +66,14 @@ a i:hover{
 .spacing{
     margin-top: 30px;
 }
-
+/* footer*/
+footer{
+    background-color: #f9a620;
+}
+.footer_para{
+    text-align: center;
+    font-size: 20px;
+}
 @media only screen and (max-width:768px){
     .heading {
         font-size: 50px;
